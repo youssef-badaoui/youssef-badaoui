@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aymane Echafii</h1>
+<h1 align="center">Hi 👋, I'm youssef badaoui</h1>
 <h3 align="center">Programmer | Developer | Learner | 1337 Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef_badaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-badaoui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-badaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-badaoui" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/Badaoui_ussef" target="blank"><img src="https://img.shields.io/twitter/follow/Badaoui_ussef?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
