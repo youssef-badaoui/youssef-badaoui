@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/Badaoui_ussef" target="blank"><img src="https://img.shields.io/twitter/follow/Badaoui_ussef?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
 
-- 🔭 I’m currently working on **get_next_line "42" Project**
+- 🔭 I’m currently working on **push_swap a "42" Project**
 
-- 🌱 I’m currently learning the **42 cursus**
+- 🌱 I’m currently learning the **42 cursus, web securety and web dev**
 
-- 📫 Reach me at **badaouiyoussef8888@gmail.com**
+- 📫 Reach me at ybadaoui@student.1337.ma
 
 <br>
 <h2 style="color: blue" > 42 Cursus <h2>
