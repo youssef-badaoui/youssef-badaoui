@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-badaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-badaoui" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/yosef_badaoui" target="blank"><img src="https://img.shields.io/twitter/follow/Badaoui_ussef?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yosef_badaoui" target="blank"><img src="https://img.shields.io/twitter/follow/yosef_badaoui?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
 
 - 🔭 I’m currently working on push_swap a "42" Project.
 
