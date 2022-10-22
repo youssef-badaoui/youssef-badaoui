@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yosef_badaoui" target="blank"><img src="https://img.shields.io/twitter/follow/yosef_badaoui?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
 
-- 🔭 I’m currently working on push_swap a "42" Project.
-
-- 🌱 I’m currently learning the 42 cursus, web securety and web dev.
+- 🔭 I’m currently working on 42 cursus projects.
 
 - 📫 Reach me at ybadaoui@student.1337.ma
 
