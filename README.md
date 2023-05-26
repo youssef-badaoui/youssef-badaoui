@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-badaoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-badaoui" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/yosef_badaoui](https://twitter.com/Yos3f_)" target="blank"><img src="https://img.shields.io/twitter/follow/yosef_badaoui?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Yos3f_" target="blank"><img src="https://img.shields.io/twitter/follow/yosef_badaoui?logo=twitter&style=for-the-badge" alt="youssef-badaoui" /></a> </p>
 
 - 🔭 I’m currently working on 42 cursus projects.
 
